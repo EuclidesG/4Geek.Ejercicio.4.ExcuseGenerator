@@ -1,5 +1,5 @@
 
-function excuseGenerator () { 
+function excuseGenerator() { 
     let who = ["Mi perro ", "Mi madre ", "Mi vecino ", "Mi novia "];
     let action = ["destruyo ", "escondio ", "quemo " ]
     let what = ["mis llaves ", "mi tarea ", "mi vehiculo "]
